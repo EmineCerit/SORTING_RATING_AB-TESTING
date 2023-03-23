@@ -28,7 +28,7 @@ As a company that will advertise on Facebook, we want to understand which option
 
 Which of these two options will increase our number of clicks and purchases?
 Is there a significant difference between the two options?
-To find the answer to these questions, we are applying the EU Test today.
+To find the answer to these questions, we are applying the AB Test today.
 
 <a id="Task_Details"></a>
 ## Task Details
